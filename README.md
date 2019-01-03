@@ -1,0 +1,2 @@
+# Random-Music-Writer
+Java program that composes music that emulates a source file using a Markov chain. The timing and properties of each note is randomly chosen using the probability of that note to appear after a small sequence of previous notes. The program takes four command line arguments: The location of the input music midi file, the name of the output midi file, the level of analysis as an integer, and the length of the output as an integer.
